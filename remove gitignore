@@ -1,0 +1,11 @@
+[33mcommit edb4ccf194339b1b82f6e0ec1c192f95ccfced34[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: EAfifa16 <tamasishdude@gmail.com>
+Date:   Mon Jul 24 13:07:11 2023 +0530
+
+    added backend code code for CRUD
+
+[33mcommit 8a179f42e47b6cd22203f20600787b30d978c7e8[m
+Author: EAfifa16 <tamasishdude@gmail.com>
+Date:   Mon Jul 24 13:06:04 2023 +0530
+
+    remove gitignore
